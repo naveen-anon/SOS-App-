@@ -1,1 +1,2 @@
-# SOS-App-
+# SOS APP
+Mobile + Backend Project
